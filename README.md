@@ -1,6 +1,6 @@
-#--------------------------------------------------------------------------------------------
+
  Project: Building an Integrated Application Network Using Salesforce and Anypoint Platform
-#---------------------------------------------------------------------------------------------
+
 Project Overview:
 In this project, students will create a comprehensive application network using Salesforce and the Anypoint Platform. The application network will integrate various systems, including databases, web services, and SaaS applications, to facilitate seamless data flow and functionality. The project will encompass API design, development, deployment, management, error handling, data transformation, and batch processing.
 

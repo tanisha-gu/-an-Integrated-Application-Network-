@@ -1,3 +1,5 @@
+#There is error handling case logic
+
 <error-handler>
     <on-error-propagate enableNotifications="true" logException="true" doc:name="On Error Propagate">
         <logger message="Error occurred: #[error.description]" level="ERROR" doc:name="Log Error"/>

@@ -1,3 +1,4 @@
+<!-- just try this code in xml -->
 <?xml version="1.0" encoding="UTF-8"?>
 <mule xmlns:db="http://www.mulesoft.org/schema/mule/db"
       xmlns:http="http://www.mulesoft.org/schema/mule/http"

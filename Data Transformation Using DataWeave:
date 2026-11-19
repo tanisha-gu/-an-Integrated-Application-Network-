@@ -1,3 +1,4 @@
+#here just format
 %dw 2.0
 output application/json
 var customer = payload
